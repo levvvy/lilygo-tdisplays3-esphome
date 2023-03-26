@@ -1,7 +1,11 @@
 # lilygo tdisplay s3 ST7789 esphome
 Lilygo T-display S3 (ST7789) running ESPHome using patched tft_espi
 
-![](https://github.com/landonr/lilygo-tdisplays3-esphome/blob/main/IMG_4200.jpg?raw=true)
+
+
+
+https://user-images.githubusercontent.com/933803/227752679-9e2bbd61-53a5-4db2-9612-4751dc330378.mp4
+
 
 ## Setup
 ```
