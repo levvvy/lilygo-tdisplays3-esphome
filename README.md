@@ -1,5 +1,5 @@
-# lilygo tdisplay s3 ST7789 esphome
-Lilygo T-display S3 (ST7789) running ESPHome using patched tft_espi
+# LILYGO® T-Display-S3 ST7789 ESPHome
+LILYGO® T-Display-S3 (ST7789) running ESPHome using patched TFT_eSPI
 
 
 
