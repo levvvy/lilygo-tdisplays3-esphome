@@ -1,12 +1,8 @@
 # LILYGO® T-Display-S3 ST7789 ESPHome
 LILYGO® T-Display-S3 (ST7789) running ESPHome using patched TFT_eSPI
 
-
-
-
 https://user-images.githubusercontent.com/933803/227752679-9e2bbd61-53a5-4db2-9612-4751dc330378.mp4
 
-# LILYGO® T-Display-S3 ESPHome
 
 <center>
   <img src="https://user-images.githubusercontent.com/933803/227753586-71e51665-4944-4798-b52a-e430b9fb78e7.jpg" width="700px">
