@@ -92,7 +92,7 @@ Follow these steps to set up and flash the firmware on your LILYGO® TTGO T-Disp
 
 ## Features
 
-- [x] 🖥️ 1.54-inch ePaper display with 200x200 resolution
+- [x] 🖥️ 1.54-inch TFT display with 170x320 resolution
 - [x] 🌐 Wi-Fi connectivity using ESP32-S3
 - [x] 🔄 Over-The-Air (OTA) updates
 - [x] 🕒 Real-Time Clock (RTC) support
